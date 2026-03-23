@@ -1,0 +1,10 @@
+{
+  "name": "studioa-frontend-react",
+  "version": "1.0.0",
+  "description": "Prototipo de catálogo en React para StudioA",
+  "main": "src/CatalogoStudioA.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
